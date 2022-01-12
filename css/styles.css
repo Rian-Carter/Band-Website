@@ -1,0 +1,19 @@
+img {
+  float:left;
+}
+
+.sidebar {
+  width: 15%;
+  float: right;
+  background-color: rgb(70, 67, 67);
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+body {
+  background-image: url("https://f4.bcbits.com/img/a0875583060_10.jpg");
+  background-color: #cccccc;
+ }
