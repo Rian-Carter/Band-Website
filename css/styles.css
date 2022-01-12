@@ -1,11 +1,14 @@
 img {
-  float:left;
+  float: left;
+  padding: 20px;
+
 }
 
 .sidebar {
-  width: 15%;
+  width: 50%;
   float: right;
-  background-color: rgb(70, 67, 67);
+  background-color: darkorchid;
+  border: black;
 }
 
 .column {
